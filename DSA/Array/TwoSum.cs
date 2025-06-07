@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DSA.Array;
-public class Solution
+public class TowSum
 {
     public int[] TwoSum(int[] nums, int target)
     {
