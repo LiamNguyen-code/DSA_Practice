@@ -1,9 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PetProject\\DSA\\DSA\\",
+  "WorkspaceRootPath": "D:\\PetProject\\DSA_Practice\\DSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{933B6ADE-8229-443D-AB46-3A42838B6F1A}|..\\FormatPDF\\FormatPDF.csproj|d:\\petproject\\dsa\\formatpdf\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{581D5A24-5338-4D7C-8653-CD4F2FF04E70}|DSA.csproj|d:\\petproject\\dsa_practice\\dsa\\array\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581D5A24-5338-4D7C-8653-CD4F2FF04E70}|DSA.csproj|solutionrelative:array\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581D5A24-5338-4D7C-8653-CD4F2FF04E70}|DSA.csproj|d:\\petproject\\dsa_practice\\dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581D5A24-5338-4D7C-8653-CD4F2FF04E70}|DSA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,14 +147,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\PetProject\\DSA\\FormatPDF\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "..\\FormatPDF\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\PetProject\\DSA\\FormatPDF\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "..\\FormatPDF\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TwoSum.cs",
+              "DocumentMoniker": "D:\\PetProject\\DSA_Practice\\DSA\\Array\\TwoSum.cs",
+              "RelativeDocumentMoniker": "Array\\TwoSum.cs",
+              "ToolTip": "D:\\PetProject\\DSA_Practice\\DSA\\Array\\TwoSum.cs",
+              "RelativeToolTip": "Array\\TwoSum.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:45:31.642Z",
+              "WhenOpened": "2025-06-05T15:13:12.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PetProject\\DSA_Practice\\DSA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PetProject\\DSA_Practice\\DSA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:53:59.221Z",
               "EditorCaption": ""
             }
           ]
