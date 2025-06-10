@@ -57,3 +57,6 @@ pgdata/
 
 # Log files
 *.log
+
+# Visual Studio 2022 cache/options directory
+.vs/
